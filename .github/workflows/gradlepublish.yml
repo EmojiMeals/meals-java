@@ -3,7 +3,9 @@
 
 name: Gradle Package
 
-on:
+on: 
+  push:
+    branches: [master]
   release:
     types: [created]
 
