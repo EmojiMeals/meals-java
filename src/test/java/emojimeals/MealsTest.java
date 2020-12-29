@@ -1,3 +1,6 @@
+package emojimeals;
+
+import emojimeals.Meals;
 import org.junit.Assert;
 import org.junit.Test;
 
